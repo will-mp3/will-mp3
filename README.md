@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👾 Breaking code since 2019<br>📚 The College of William & Mary<br>🎯 Aspiring Software Engineer<br>💡 Current project:</p>
+<p align="left">👾 Breaking code since 2019<br>📚 The College of William & Mary<br>🎯 Aspiring Software Engineer<br>💡 Current project: GUI BlackJack</p>
 
 ###
 
