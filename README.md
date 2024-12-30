@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Will Katabian, senior Computer Science student at The College of William & Mary. I am expected (and excited) to graduate in May 2025 and hope to start my career as an engineer soon after. Here you will find all of my projects and other assorted links, thanks for checking me out!</p>
+<p align="left">My name is Will Katabian, senior Computer Science student at The College of William & Mary. I am expected (and excited!) to graduate in May 2025 and hope to start my career as an engineer soon after. Here you will find all of my projects and other assorted links, thanks for checking me out!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👾 Breaking code since 2019<br>📚 The College of William & Mary<br>🎯 Aspiring software Engineer<br>💡 Current project: GUI_blackjack</p>
+<p align="left">👾 Breaking code since 2019<br>📚 The College of William & Mary<br>💡 Current project: GUI_blackjack</p>
 
 ###
 
