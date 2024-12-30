@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About Me:</h2>
+<h2 align="left">Quick Facts:</h2>
 
 ###
 
-<p align="left">👾 Breaking code since 2019<br>📚 The College of William & Mary<br>💡 Current project: GUI_blackjack</p>
+<p align="left">👾 Breaking code since 2019<br>📚 The College of William & Mary<br>📍 Virginia Beach, Virginia<br>💡 Current project: GUI_blackjack</p>
 
 ###
 
