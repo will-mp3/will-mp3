@@ -32,6 +32,14 @@
 
 ###
 
+<h2 align="left">LeetCode Stats:</h2>
+
+###
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/wkatabian?theme=dark&font=Arimo&ext=heatmap)
+
+###
+
 <h2 align="left">Languages:</h2>
 
 ###
