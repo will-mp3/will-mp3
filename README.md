@@ -36,7 +36,9 @@
 
 ###
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/wkatabian?theme=dark&font=Arimo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/wkatabian?theme=dark&font=Arimo) 
+
+[heatmap]: &ext=heatmap
 
 ###
 
