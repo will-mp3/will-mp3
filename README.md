@@ -108,7 +108,7 @@
 
 ###
 
-<h2 align="left">IDEs:</h2>
+<h2 align="left">Platforms & IDEs:</h2>
 
 ###
 
