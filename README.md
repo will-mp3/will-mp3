@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👾 Breaking code since 2019<br>📚 The College of William & Mary<br>📍 Virginia Beach, Virginia<br>💡 Current project: GUI_blackjack</p>
+<p align="left">👾 Breaking code since 2019<br>📚 The College of William & Mary<br>📍 Virginia Beach, Virginia<br>💡 Current project: MicroLLM</p>
 
 ###
 
