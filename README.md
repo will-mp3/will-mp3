@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👾 Breaking code since 2019<br>📚 The College of William & Mary<br>📍 Virginia Beach, Virginia<br>💡 Current project: Personalized LLM Chatbot</p>
+<p align="left">👾 Breaking code since 2019<br>📚 The College of William & Mary<br>📍 Virginia Beach, Virginia<br>💡 Current project: DIY Large Language Model</p>
 
 ###
 
