@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 The College of William & Mary<br>📍 Virginia Beach, Virginia<br>💡 Current Project: React Web Portfolio<br>🚨 Feautered Project: DIY Large Language Model</p>
+<p align="left">📚 The College of William & Mary<br>📍 Virginia Beach, Virginia<br>💡 Current Project: React Web Portfolio<br>🚨 Featered Project: DIY Large Language Model</p>
 
 ###
 
