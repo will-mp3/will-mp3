@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Will Katabian, senior Computer Science student at The College of William & Mary. I am expected (and excited!) to graduate in May 2025 and hope to start my career as an engineer soon after. Here you will find all of my projects and other assorted links, thanks for checking me out!</p>
+<p align="left">My name is Will Katabian, software engineer and computer science graduate from The College of William & Mary. Here you will find all of my projects and other assorted links, thanks for checking me out!</p>
 
 ###
 
