@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 The College of William & Mary<br>📍 Virginia Beach, Virginia<br>💡 Current Project: Personal Adaptive Strategy Optimizer<br>🚨 Featured Project: DIY Large Language Model</p>
+<p align="left">📚 The College of William & Mary<br>📍 Virginia Beach, Virginia<br>💡 Current Project: <br>🚨 Featured Project: MumbleGPT</p>
 
 ###
 
