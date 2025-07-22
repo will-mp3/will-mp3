@@ -6,6 +6,11 @@
 
 ###
 
+<h2 align="left"><a href="https://www.linkedin.com/in/willkatabian/" target="_blank">Portfolio</a></h2>
+
+
+###
+
 <h2 align="left">Quick Facts:</h2>
 
 ###
