@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left"><a href="https://willkatabian-devportfolio.vercel.app/" target="_blank">Portfolio</a></h2>
+<h2 align="left"><a href="https://willkatabian.com/" target="_blank">Portfolio</a></h2>
 
 
 ###
