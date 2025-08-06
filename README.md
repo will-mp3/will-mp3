@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">📚 The College of William & Mary<br>📍 Virginia Beach, Virginia<br>💡 Current Project: Tech Docs Assistant<br>🚨 Featured Project: Micro GPT</p>
+<p align="left">📚 The College of William & Mary<br>📍 Virginia Beach, Virginia<br>💡 Current Project: Consensus<br>🚨 Featured Project: Tech Docs Assistant</p>
 
 ###
 
