@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">📚 The College of William & Mary<br>📍 Arlington, Virginia<br>💡 Current Project: tldr<br>🚨 Featured Project: Tech Docs Assistant</p>
+<p align="left">📚 The College of William & Mary<br>📍 Arlington, Virginia<br>💡 Current Project: TLDR<br>🚨 Featured Project: Tech Docs Assistant</p>
 
 ###
 
