@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">📚 The College of William & Mary<br>📍 Arlington, Virginia<br>💡 Current Project: townsquare<br>🚨 Featured Project: TLDR</p>
+<p align="left">💻 Software Engineer at Unanet<br>📚 The College of William & Mary<br>📍 Arlington, Virginia<br>💡 Current Project: townsquare<br>🚨 Featured Project: TLDR</p>
 
 ###
 
