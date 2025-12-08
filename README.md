@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">💻 AI @ Unanet<br>📚 William & Mary<br>📍 Arlington, Virginia<br>🛠️ Current Project: Town Square<br>🚨 Featured Project: TLDR</p>
+<p align="left">💻 AI @ Unanet<br>📚 William & Mary<br>📍 Arlington, Virginia<br>🛠️ Current Project: Town Square<br>🚨 Featured Project: Geonosis</p>
 
 ###
 
