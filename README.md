@@ -45,12 +45,3 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wkatabian?theme=dark&font=Arimo) 
 
 [heatmap]: &ext=heatmap
-
-###
-
-<h2 align="left">Certifications:</h2>
-
-###
-
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
