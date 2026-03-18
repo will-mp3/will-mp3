@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">AI Engineer @ Unanet<br>William & Mary Alum<br>Based in Arlington, Virginia<br>Current Project: Locals Only (shhhhh)</p>
+<p align="left">- AI Engineer @ Unanet<br>- William & Mary Alum<br>- Based in Arlington, Virginia<br>- Current Project: Locals Only (shhhhh)</p>
 
 ###
 
