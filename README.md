@@ -1,8 +1,6 @@
-<h1 align="left">Welcome!</h1>
+<h1 align="left">Opener</h1>
 
 ###
-
-<p align="left">Take a look around.</p>
 
 <p align="left">I try to keep this page updated regularly, you can find just about every project or experiment I've touched throughout the years here. Some might even come with documentation if you're lucky.</p>
 
@@ -12,15 +10,15 @@
 
 ###
 
-<h2 align="left">Quick Facts:</h2>
+<h2 align="left">Bullets</h2>
 
 ###
 
-<p align="left">💻 AI @ Unanet<br>📚 William & Mary<br>📍 Arlington, Virginia<br>🛠️ Current Project: Town Square<br>🚨 Featured Project: Geonosis</p>
+<p align="left">AI Engineer @ Unanet<br>William & Mary Alum<br>Based in Arlington, Virginia<br>Current Project: Locals Only (shhhhh)</p>
 
 ###
 
-<h2 align="left">Get In Touch With Me:</h2>
+<h2 align="left">Get In Touch With</h2>
 
 ###
 
@@ -38,7 +36,7 @@
 
 ###
 
-<h2 align="left">LeetCode Stats:</h2>
+<h2 align="left">Do You Even Leet Bro?</h2>
 
 ###
 
