@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Get In Touch With</h2>
+<h2 align="left">Get In Touch</h2>
 
 ###
 
