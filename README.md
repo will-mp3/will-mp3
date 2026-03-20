@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Do You Even Leet Bro?</h2>
+<h2 align="left">NYT Crossword</h2>
 
 ###
 
